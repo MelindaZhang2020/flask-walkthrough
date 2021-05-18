@@ -19,7 +19,7 @@ def contact():
 
 
 @app.route("/careers")
-def career():
+def careers():
     return render_template("careers.html")
 
 
